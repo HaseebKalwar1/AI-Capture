@@ -1,5 +1,5 @@
 
-Hi, my name is Haseebullah Kalwar, and I am Developer of AI Capture.
+Hi, my name is Haseebullah Kalwar, and I developed AI Capture.
 
 AI - Capture:
 Capture all your unstructured data with the click of a button. You can now easily capture tables and Name-Entites from files and write into respective destination like excel, text file etc.
